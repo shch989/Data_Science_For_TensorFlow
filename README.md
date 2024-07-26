@@ -4,6 +4,7 @@ Learn TensorFlow by Google. Become an AI, Machine Learning, and Deep Learning ex
 Time: 62.5hour 
 
 ## Content
-|     | chapter                                   | name                             |
-| --- | ----------------------------------------- | -------------------------------- |
-| 01  | Deep Learning and TensorFlow Fundamentals | 00_tensorflow_fundamentals.ipynb |
+|     | chapter                                   | name                                                     |
+| --- | ----------------------------------------- | -------------------------------------------------------- |
+| 01  | Deep Learning and TensorFlow Fundamentals | 00_tensorflow_fundamentals.ipynb                         |
+| 02  | Neural network regression with TensorFlow | 01_neural_network_regression_with_tensorflow_video.ipynb |
